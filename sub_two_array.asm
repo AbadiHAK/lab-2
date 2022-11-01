@@ -1,4 +1,4 @@
-name "add-2"
+name "sub"
 
 
 org 100h
